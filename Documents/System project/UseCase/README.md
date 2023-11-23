@@ -1,6 +1,6 @@
 # Диаграмма вариантов использования
 
-![Диаграмма вариантов использования](../../../Images/System%20design/Use%20Case.png)
+![Диаграмма вариантов использования]([../../../Images/System%20design/Use%20Case.png](https://github.com/EduardKaliaha/Jcrpo-version-too-/blob/main/Images/System%20design/Use%20case.png))
 
 Сценарии для каждого варианта использования описаны в [потоке событий](../UseCase/Flow%20of%20Events.md).
 
