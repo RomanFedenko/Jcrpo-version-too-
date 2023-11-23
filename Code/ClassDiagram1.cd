@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RSS_Reader.Controller.FileManager">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAABAAAAAAAAQQAAABggAAABAACAAAAAIAAAAAAg=</HashCode>
+      <FileName>Controller\FileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.Controller.Filtrator">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAACAAAAAAAAAABAAAAAAAAQAIAAAAQA=</HashCode>
+      <FileName>Controller\Filtrator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.Controller.NewsLoader">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="RSS_Reader.Controller.NewsLoader.NewsListReadyHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Controller\NewsLoader.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="RSS_Reader.Controller.NewsLoader.ExceptionHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Controller\NewsLoader.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAAAAAECAAgAAAgAAAAAAACAEAQAAAAAQAAQAIAAABA=</HashCode>
+      <FileName>Controller\NewsLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.Controller.RegistrationAndLoginManager">
+    <Position X="14" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBAAAAAAAAQAAAQAAAAAAAAgAAAAABAAEAAAAAAAAAA=</HashCode>
+      <FileName>Controller\RegistrationAndLoginManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.Controller.RssVersion">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\RssVersion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.Controller.RssVersion1">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\RssVersion1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.Controller.RssVersion2">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\RssVersion2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.Model.News">
+    <Position X="14" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAQAAACAA=</HashCode>
+      <FileName>Model\News.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.Model.Profile">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAACAAABABCAAAAAAEEAAIAAQAAABAAAICQEAAA=</HashCode>
+      <FileName>Model\Profile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.Model.User">
+    <Position X="10.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAACAAAAAAAAAAAQAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Model\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.Program">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.Properties.Resources">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.Properties.Settings">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.View.DataEntryWindow">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAEAAAACAAAACAIIAAQAAAAAEAAABAEA=</HashCode>
+      <FileName>View\DataEntryWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.View.LoginWindow">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAIAABQACAAABCAAgCAgAACAAEAAIgAEAIBAAAAAAA=</HashCode>
+      <FileName>View\LoginWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.View.LoginWindowForTheRegisteredUser">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="RSS_Reader.View.LoginWindowForTheRegisteredUser.UserInfoReadyHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>View\LoginWindowForTheRegisteredUser.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIAIAAAAACAAABCAABCAAQECAIIAAACAAAAEAAAAAEA=</HashCode>
+      <FileName>View\LoginWindowForTheRegisteredUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.View.MainWindow">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gZAIIBgACHBIABKAYICAQCADSsQEAYCBAGAAAEABIAA=</HashCode>
+      <FileName>View\MainWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.View.RegistrationWindow">
+    <Position X="12.25" Y="3.25" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="RSS_Reader.View.RegistrationWindow.UserInfoReadyHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>View\RegistrationWindow.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIAIAAAAACAAABCAAACAAQADAIIAAAAAAAAEABAAAEA=</HashCode>
+      <FileName>View\RegistrationWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RSS_Reader.View.SettingsWindow">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="RSS_Reader.View.SettingsWindow.ProfileReadyHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>View\SettingsWindow.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIAIAQggADqAAiDAEICAQIQCIIIAQAQAIEgEABEAAUA=</HashCode>
+      <FileName>View\SettingsWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="RSS_Reader.Model.Status">
+    <Position X="0.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAEAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Status.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

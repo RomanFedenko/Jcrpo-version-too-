@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<profile>
+  <resources>
+    <resource>http://www.onliner.by/feed</resource>
+  </resources>
+  <includes>
+    <include>Технологии</include>
+  </includes>
+  <exclude>
+    <exclude>Emirates</exclude>
+  </exclude>
+</profile>
