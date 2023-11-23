@@ -19,4 +19,4 @@
 <a name="add"/>
 
 # 3 Добавить адрес интернет-ресурса
-![Добавить адрес интернет-ресурса](../../../Images/System%20design/Add(activity).png)
+![Добавить адрес интернет-ресурса](https://github.com/EduardKaliaha/Jcrpo-version-too-/blob/main/Images/System%20design/ImagesSystem%20designAdd(activity).png)
