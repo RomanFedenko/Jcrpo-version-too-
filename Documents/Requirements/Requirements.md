@@ -26,8 +26,8 @@
 <h2>2.3 Характеристики пользователей</h2>
 <table>
     <tr>
-        <th style = "font-weight:bolder">Класс пользователей</th>
-        <th style = "font-weight:bolder">Описание</th>
+        <th id = "header1" style = "font-weight:bolder">Класс пользователей</th>
+        <th id = "header2" style = "font-weight:bolder">Описание</th>
     </tr>
     <tr>
         <th>Анонимные пользователи</th>
