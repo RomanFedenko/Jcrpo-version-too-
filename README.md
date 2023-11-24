@@ -4,7 +4,7 @@
 Платформа: .NET Framework 4.6
 
 # Содержание
-1 [Документация](https://github.com/EduardKaliaha/Jcrpo-version-too-/tree/main/Documents)<br>
+1 [Документация](https://github.com/RomanFedenko/Jcrpo-version-too-/tree/main/Documents)<br>
 1.1 [Требования]()<br>
 1.2 [Диаграмма]()<br>
 2 [Код]()<br>
